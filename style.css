@@ -1,0 +1,15 @@
+.mbmOneCardBox .mbmOneCard .mbmCardImageDiv {
+    text-align: center;
+    padding-left: 0 !important;
+    
+}
+
+.mbmOneCard{
+    margin: 2%;
+    display : inline-block;
+}
+
+section .mbmOneCardBox{
+    
+    text-align: center;
+}
